@@ -2,11 +2,11 @@
 
 ## Rescuetime
 
-![Rescuetime](./image/Screenshot from 2021-06-29 14-57-55.png)
+![Rescuetime](./image/p1.png)
 
 ## Paiza
 
-- ![コードクロニクル](./image/Screenshot from 2021-06-29 15-01-18.png)
+- ![コードクロニクル](./image/p2.png)
 
 ## Python3
 
